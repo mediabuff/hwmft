@@ -1,0 +1,17 @@
+Debug
+Release
+ipch
+*.opensdf
+*.sdf
+*.suo
+Output
+*.pdb
+*.user
+*.bak
+*.vspx
+*.orig
+*.ilk
+*.aps
+buildnumber.txt
+Production
+NemoSDK/dist
